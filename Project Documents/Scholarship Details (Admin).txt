@@ -1,0 +1,51 @@
+Scholarship Details 
+
+Eligibility:
+<br>To be eligible, an applicant must have -
+<ul>
+<li>The students obtaining 80 percentile in class 10th/ 12th
+and getting admission in the first year of diploma/degree course
+respectively can apply.</li>
+<li>The students obtaining 65 percentage in diploma and
+getting admission in the first/second year of degree course can
+apply.</li>
+<li>The annual income of the family should not be more than
+INR 6 Lakh.</li>
+<li>The State Government has approved the validity of income
+certificate for three financial years from date of issue.</li>
+<li>Accordingly, a candidate who has a valid income certificate need
+not have to issue it again for next three years financial years.</li>
+</ul>
+
+
+Documents:
+<ul>
+<li>Domicile Certificate</li>
+<li>Student Photograph</li>
+<li>Self-attested copy of previous academic mark sheet</li>
+<li>Fee receipt of current course year</li>
+<li>Scanned copy of Aadhar Enrollment/Aadhar Card</li>
+<li>Income certificate issued by designated state/UT authority</li>
+</ul>
+
+
+
+Steps:
+<ol>
+<li>First, visit the official website given here.</li>
+<li>After you land on the main website click on new admission.</li>
+<li>Select your desired post</li>
+<li>your board or university</li>
+<li>Select your stream</li>
+<li>Select the passing year</li>
+<li>Enter your date of birth</li>
+<li>Enter a working phone number</li>
+<li>Click on get password</li>
+<li>You will receive a password on your registered mobile number.</li>
+<li>Finally, you will be registered on the official website.</li>
+</ol>
+
+
+
+
+
